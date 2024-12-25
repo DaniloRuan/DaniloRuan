@@ -1,9 +1,9 @@
 ### Olá! Meu nome é Danilo. Sou estudante e Programador👋🏻
 ##
-<a href="https://github.com/DaniloRuan/github-readme-stats">
+<a href="https://github.com/DaniloRuan/">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DaniloRuan&theme=dark" />
 </a>
-<a href="https://github.com/DaniloRuan/convoychat">
+<a href="https://github.com/DaniloRuan/">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DaniloRuan&layout=compact&langs_count=8&theme=dark&card_width=320" />
 </a>
 
